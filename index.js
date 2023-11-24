@@ -244,3 +244,16 @@ L.Control.Button = L.Control.extend({
 });
 var control = new L.Control.Button()
 control.addTo(map); 
+
+/^^^^^^^^^^^^^^^^^^^^^^^^Comment Box By Abeer^^^^^^^^^^^^^^^^^^^^^^^^^^^/
+
+
+
+
+
+
+
+
+
+
+/^^^^^^^^^^^^^^^^^^^^^^^^Comment Box By Abeer^^^^^^^^^^^^^^^^^^^^^^^^^^^/
